@@ -54,6 +54,10 @@
 
 <br />
 
+<a href="https://www.leetcode.com/potafe137" >
+    <img alt="Github" width="80px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"/>&nbsp;&nbsp;
+</a>
+
 <a href="https://github.com/Potafe">
     <img alt="Github"         width="80px"         src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />&nbsp;&nbsp;
 </a>
@@ -98,6 +102,7 @@
 &nbsp;&nbsp;<img alt="Git" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 &nbsp;&nbsp;<img alt="GitHub" width="60px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 &nbsp;&nbsp;<img alt="Terminal" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+&nbsp;&nbsp;<img alt="Linux" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 </div>
 
 
