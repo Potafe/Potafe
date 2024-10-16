@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Yazat nicknamed as @Potafe
-
-<!---
-Potafe/Potafe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hello I'm Yazat Mishra 👋</h1>
+<h3 align="center">A Coding enthusiast and Web developer</h3>
+<div align="center">
+    <img align="center" alt="GIF" width=50% max-width="380px" height="300px" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif"/>
+</div>
