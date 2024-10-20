@@ -24,7 +24,7 @@
 
 - 🌐 You can find my portfolio at [Portfolio](https://portfolio--hazel.vercel.app/)
 
-- 👨‍💻 You can find my projects at [Github](https://github.com/Potafe)
+- 👨‍💻 You can find my projects at [Github](https://github.com/Potafe?tab=repositories)
 
 - 📫 Reach me **yazat.mishra1@gmail.com.**
 
