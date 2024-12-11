@@ -22,7 +22,7 @@
 
 - 🐧 Enthusiast of clean UI/UX design, integrating Tailwind CSS and other frontend tools to deliver engaging user experiences.
 
-- 🌐 You can find my portfolio at [Portfolio](https://portfolio--hazel.vercel.app/)
+- 🌐 You can find my portfolio at [Portfolio](https://portfolio--yazat.vercel.app/)
 
 - 👨‍💻 You can find my projects at [Github](https://github.com/Potafe?tab=repositories)
 
