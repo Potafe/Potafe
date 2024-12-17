@@ -213,7 +213,7 @@
 
 <div align="center">
     <h2 align="center"> Contributions </h2>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Potafe&theme=dark&hide_border:true" />
+    <img align="center" src = "https://streak-stats.demolab.com/?user=Potafe&theme=dark&hide_border:true" />
 </div>
 
 <div align="center">
