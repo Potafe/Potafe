@@ -213,7 +213,7 @@
 
 <div align="center">
     <h2 align="center"> Contributions </h2>
-    <img align="center" src = "https://streak-stats.demolab.com/?user=Potafe&theme=dark&hide_border:true" />
+    <img src = "https://streak-stats.demolab.com/?user=Potafe&theme=dark" />
 </div>
 
 <div align="center">
